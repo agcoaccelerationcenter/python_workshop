@@ -16,14 +16,17 @@ Python workshop designed to get people quickly up and running
 * In Anaconda Prompt, navigate to directoy containing python script
 * run `python script_name.py`
 
-## 5. Operations
+## 5. Notebooks
+[Jupyter](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
+## 6. Operations
 [Operations in Python](https://www.w3schools.com/python/python_operators.asp)
 
-## 6. Logic
+## 7. Logic
 [Logic in Python](https://www.w3schools.com/python/gloss_python_logical_operators.asp)
 
-## 7. Functions
+## 8. Functions
 [Functions in Python](https://www.w3schools.com/python/python_functions.asp)
 
-## 8. Classes
+## 9. Classes
 [Classes in Python](https://www.w3schools.com/python/python_classes.asp)
